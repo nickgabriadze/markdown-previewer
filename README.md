@@ -1,2 +1,2 @@
 # markdown-previewer
-Simple Markdown previewer webpage
+Simple Markdown previewer webpage written in React
